@@ -70,7 +70,7 @@ public class ActorManager {
 	}
 	
 	
-	//Actor readActor(String actorId);
+
 	public Actor readActor (int actorId)
 	// I have taken actorId as integer datatype in Database so changing the input of this function
 	
@@ -99,7 +99,7 @@ public class ActorManager {
 	}
 	
 	
-	//void updateActor(String actorId, Actor actor);
+	
 	public void updateActor(int actorId, Actor actor)
 	// I have taken actorId as integer datatype in Database so changing the input of this function
 
@@ -122,7 +122,7 @@ public class ActorManager {
 	}
 	
 	
-	//void deleteActor(String actorId);
+	;
 	public void deleteActor(int actorId)
 	// I have taken actorId as integer datatype in Database so changing the input of this function
 	{
